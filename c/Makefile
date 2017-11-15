@@ -1,0 +1,1 @@
+gcc -I/usr/local/include -L/usr/local/lib 001-hello.c -ltensorflow
